@@ -1,7 +1,7 @@
-let n1: number = 10000;
+let n1: number = 20000;
 let costoApartamento: number = 100000;
 
-if (n1 === 10000 || isNaN(n1)) {
+if (n1 === 20000 || isNaN(n1)) {
   console.log(n1);
   let tipoInmueble: number = 2;
 
